@@ -1,5 +1,5 @@
 # springboot-redis-session-demo
-Simple demo with spring boot configuration for redis-persisted sessions. Intended very much as a proof-of-concept and based on the Spring Boot "Hello World" sample.
+Simple demo with spring boot configuration for redis-persisted sessions. This uses pivotal's [redis-store](https://github.com/pivotalsoftware/session-managers/tree/master/redis-store) session manager. Intended very much as a proof-of-concept and based on the Spring Boot "Hello World" sample.
 
 # Building
 
