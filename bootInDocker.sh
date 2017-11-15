@@ -1,0 +1,1 @@
+java -jar /app/springboot-redis-session-demo-0.0.1-SNAPSHOT.jar --redis.session-store.host=redis --redis.session-store.port=6379
